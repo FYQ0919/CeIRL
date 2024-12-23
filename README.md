@@ -1,4 +1,4 @@
-## Simulation: 
+## Simulator: 
 Isaac Gym
 
 
